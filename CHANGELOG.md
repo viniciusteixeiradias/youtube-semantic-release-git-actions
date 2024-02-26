@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/viniciusteixeiradias/youtube-semantic-release-git-actions/compare/v0.1.0...v0.1.1) (2024-02-26)
+
+
+### Performance Improvements
+
+* v1.0.0 ([35ae266](https://github.com/viniciusteixeiradias/youtube-semantic-release-git-actions/commit/35ae2666bf62baf5dc804f070ae9c2143b25bcca))
+
 # [0.1.0](https://github.com/viniciusteixeiradias/youtube-semantic-release-git-actions/compare/v0.0.0...v0.1.0) (2024-02-26)
 
 

@@ -1,3 +1,15 @@
+# [1.0.0](https://github.com/viniciusteixeiradias/youtube-semantic-release-git-actions/compare/v0.1.1...v1.0.0) (2024-02-26)
+
+
+### Features
+
+* add some breaking change ([384ef9f](https://github.com/viniciusteixeiradias/youtube-semantic-release-git-actions/commit/384ef9fb6faf58791cc29ddf49aeda0bd95e38d7))
+
+
+### BREAKING CHANGES
+
+* doing something
+
 ## [0.1.1](https://github.com/viniciusteixeiradias/youtube-semantic-release-git-actions/compare/v0.1.0...v0.1.1) (2024-02-26)
 
 
